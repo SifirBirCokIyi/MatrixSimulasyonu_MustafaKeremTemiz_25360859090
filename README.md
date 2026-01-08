@@ -2,6 +2,11 @@
 
 Bu proje Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü, Algoritmalar ve Programlama dersi dönem projesi olarak hazırlanmıştır.
 
+İsim:Mustafa Kerem Temiz
+Numara:25360859090
+Bölüm:Bilgisayar Mühendisliği
+Şube:Algoritmalar ve Programlama Şube 2
+
 ## Proje Hakkında
 Proje C dili kullanılarak geliştirilmiş konsol tabanlı bir uzay simülasyonudur. Güneş Sistemindeki gezegenlerin yerçekimi ivmeleri baz alınarak 9 farklı fizik deneyi simüle edilmektedir.
 
