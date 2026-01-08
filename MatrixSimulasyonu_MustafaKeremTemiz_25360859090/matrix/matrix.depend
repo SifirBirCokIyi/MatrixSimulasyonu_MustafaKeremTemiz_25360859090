@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1767896605 source:c:\users\kerem\onedrive\masaüstü\avp\matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<unistd.h>
+	<string.h>
+	<time.h>
+
