@@ -1,6 +1,6 @@
 # Algoritmalar ve Programlama - Fizik Simülasyonu Projesi
 
-Bu proje Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü, Algoritmalar ve Programlama dersi dönem projesi olarak hazırlanmıştır.
+Bu proje Algoritmalar ve Programlama dersi dönem projesi olarak hazırlanmıştır.
 
 İsim:Mustafa Kerem Temiz
 Numara:25360859090
